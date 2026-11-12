@@ -63,4 +63,6 @@
 
 ---
 
-<p align="center"><sub>Currently: polishing AgentOps and looking for a fresher fullstack role · Vietnamese (native) · English (working)</sub></p>
+<p align="center">
+  <sub>Open to Fresher Full-stack Developer opportunities · Vietnamese (Native) · English (Working Proficiency)</sub>
+</p>
